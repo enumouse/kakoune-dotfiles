@@ -4,9 +4,12 @@ My kakoune dotfiles
 ![screenshot](assets/screenshot.png)
 
 # Install
-git clone https://git.sr.ht/~enumouse/kakoune-dotfiles ~/.config/kak
 
-# Licenses and Thanks
+```
+git clone https://git.sr.ht/~enumouse/kakoune-dotfiles ~/.config/kak
+```
+
+# Licenses and Thanks
 
 - `kakrc` is under the MIT license
 
