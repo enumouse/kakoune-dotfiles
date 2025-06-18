@@ -34,3 +34,6 @@ hook global InsertCompletionShow .* %{
 # Tab Width and Behaviour
 set-option global tabstop 4
 set-option global indentwidth 4
+
+# Line Numbers
+add-highlighter global/ number-lines -relative
