@@ -1,5 +1,5 @@
 # Theme
-colorscheme ef-duo-dark
+colorscheme cyanide
 
 # Plugins
 try %{
